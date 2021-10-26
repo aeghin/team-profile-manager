@@ -1,6 +1,6 @@
 # team-profile-manager
 
-##Oerview
+##Overview
 
 Team profile generator to keep track of your staff! The video below demostrates the app in action. 
 
